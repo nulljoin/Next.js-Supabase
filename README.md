@@ -6,14 +6,6 @@ Welcome to the `Next.js SaaS Starter with Stripe` – your ultimate boilerplate 
 
 A powerful SaaS starter-kit built with Next.js, Stripe, Supabase, Typescript, and Tailwind CSS. Perfect for launching your next SaaS project!
 
-### 🎥 Demo Video
-
-https://github.com/user-attachments/assets/0c7ab869-6042-490d-9064-f3988b57c8d2
-
-### 🌍 Live Demo
-
-https://next-stripe-supabase-tailwind-typescript.vercel.app/
-
 ## ✨ Key Features
 
 ### 💳 Complete Stripe Integration
@@ -197,11 +189,4 @@ $$ LANGUAGE plpgsql;
 - ⭐ Star the repository
 - 🛠️ Submit pull requests, report bugs, or suggest features
 
-### 📬 Get in Touch
-
-Feel free to reach out if you have any questions or need help:
-
-- **GitHub:** https://github.com/mustafacagri
-- **Linkedin:** [@MustafaCagri](https://www.linkedin.com/in/mustafacagri/)
-
-Made with ❤️ in 📍 Istanbul, using React.js 18 ⚛️ Next.js 14 🌐 Stripe 💳 TailwindCSS 🎨 TypeScript 🔧 React Query / Tanstack 🔄 and Lodash 🛠️!
+Made using React.js 18 ⚛️ Next.js 14 🌐 Stripe 💳 TailwindCSS 🎨 TypeScript 🔧 React Query / Tanstack 🔄 and Lodash 🛠️!
